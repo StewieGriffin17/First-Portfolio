@@ -222,7 +222,7 @@ main{
 footer{
     margin-top: 115px;
     background-color: #FFF8F3;
-    padding: 130px 250px;
+    padding: 130px 300px 130px 300px;
 }
 .foot{
     display: flex;
